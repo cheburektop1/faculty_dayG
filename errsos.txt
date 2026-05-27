@@ -1,0 +1,5 @@
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\old\legacy.logs:2019-12-01 ERROR Legacy component crashed
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\errors.logs:[ERROR] Database timeout at 12:01
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\errors.logs:[ERROR] Cache synchronization failed
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\app.logs:2025-01-01 ERROR Failed to connect to metrics service
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\app.logs:2025-01-01 ERROR Metrics service unreachable

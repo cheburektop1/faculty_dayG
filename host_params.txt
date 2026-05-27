@@ -1,0 +1,2 @@
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\config\app.conf:host=localhost
+C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\config\db.conf:host=127.0.0.1

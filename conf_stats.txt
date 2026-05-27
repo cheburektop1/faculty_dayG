@@ -1,0 +1,3 @@
+  3 C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\config\app.conf
+  3 C:\Users\grego\IdeaProjects\faculty_dayG1\lesson9\logs\config\db.conf
+  6 итого
